@@ -1,0 +1,25 @@
+.env
+downloaded_data/
+__pycache__/
+*.pyc
+
+# data, never commit
+*.csv
+*.xlsx
+*.pptx
+*.ipynb
+datasheets/
+archive/
+test/
+notebook_test_output_H/
+slide_dump.txt
+**/train/
+**/valid/
+**/outputs/
+**/train.log
+**/runs/segment/*/*
+!**/runs/segment/*/weights/
+**/runs/segment/*/weights/last.pt
+# pretrained base weights
+yolov8n-seg.pt
+yolo26n.pt

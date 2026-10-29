@@ -1,0 +1,43 @@
+{
+  "complexion": {
+    "": "Medium",
+    "Black": "Dark",
+    "Brown": "Medium",
+    "DARK": "Dark",
+    "FAIR": "Fair",
+    "MEDIUM": "Medium",
+    "Med": "Medium",
+    "Med.": "Medium",
+    "Medium/Dark": "Medium",
+    "Mocha": "Medium",
+    "fair": "Fair"
+  },
+  "gender": {},
+  "race": {
+    "Adivasi": "Adivashi",
+    "BENGALI": "Bengali",
+    "BIHARI": "Bihari",
+    "Bagari": "Bengali",
+    "Baushi": "Others",
+    "Bengali/Rajbanshi": "Bengali",
+    "Bhojpuri": "Bihari",
+    "Chrisht": "Others",
+    "Christian": "Others",
+    "Hindu": "Others",
+    "Muslim": "Others",
+    "NEPALI": "Nepali",
+    "Nagai": "Others",
+    "Nayali": "Others",
+    "Nengali": "Nepali",
+    "Oria": "South Indian",
+    "Others (Adivasi)": "Adivashi",
+    "Rajbonshi": "Rajbanshi",
+    "S/Tribe": "Others",
+    "TRIBE": "Others",
+    "Tribal": "Others",
+    "Tribe": "Others",
+    "Tribe/Others": "Others",
+    "bengali": "Bengali",
+    "nepali": "Nepali"
+  }
+}
